@@ -10,4 +10,5 @@ parameters = [
   { name = "dev.user.mongo", value = "MONGO=true" },
   { name = "dev.user.redis_host", value = "redis-dev.ndevopsb72.online" },
   { name = "dev.user.mongo_url", value = "mongodb://mongodb-dev.ndevopsb72.online:27017/catalogue" }
+
 ]
